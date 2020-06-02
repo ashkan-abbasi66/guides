@@ -4,3 +4,5 @@ A repo containing miscellaneous notes ! It may be too messy to be used by any on
 - Python - [basic image processing operations](./guide_image_basics_git.ipynb): read, show, save, resize, change color space - MATPLOTLIB, PIL, CV2.
 - Image Denoising
   - *Charles Deledalle* - [Software](https://www.charles-deledalle.fr/pages/software.php) - [Teaching](https://www.charles-deledalle.fr/pages/teaching.php)
+- Image Processing Courses and Lecture notes
+  - Berkeley's [DIP course](http://www-inst.eecs.berkeley.edu/~ee225b/sp20/)
