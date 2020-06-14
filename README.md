@@ -6,3 +6,5 @@ A repo containing miscellaneous notes ! It may be too messy to be used by any on
   - *Charles Deledalle* - [Software](https://www.charles-deledalle.fr/pages/software.php) - [Teaching](https://www.charles-deledalle.fr/pages/teaching.php)
 - Image Processing Courses and Lecture notes
   - Berkeley's [DIP course](http://www-inst.eecs.berkeley.edu/~ee225b/sp20/)
+- HSI
+  - Hyperspectral Imaging Seminar by Prof. Hagit Hel-Or (Collection of genuine papers related to HSI, HSI statistics, classification, segmentation, denoising, sensor fusion, compression, biometrics, etc.) - (I archived the page here.)
