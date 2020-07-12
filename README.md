@@ -8,3 +8,6 @@ A repo containing miscellaneous notes ! It may be too messy to be used by any on
   - Berkeley's [DIP course](http://www-inst.eecs.berkeley.edu/~ee225b/sp20/)
 - HSI
   - Hyperspectral Imaging Seminar by Prof. Hagit Hel-Or (Collection of genuine papers related to HSI, HSI statistics, classification, segmentation, denoising, sensor fusion, compression, biometrics, etc.) - [Archived Page]().
+- OCT datasets
+  - Optical Coherence Tomography Image Retinal Database - University of Waterloo - [link](https://www.openicpsr.org/openicpsr/project/108503/version/V1/view) - [doi](https://doi.org/10.3886/E108503V1) - (Classification/Segmentation)
+  
