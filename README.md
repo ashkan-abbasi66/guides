@@ -1,5 +1,5 @@
 # guides
-A repo containing miscellaneous notes ! It may be too messy to be used by any one else. However, you might be find time-saving/useful things in it!
+A repo containing miscellaneous notes ! It may be too messy to be used by any one else. However, you might be find time-saving/useful things in it!. In addition to links,  I also archived some materials here.
 
 - Notes
   - Some notes by [By Andersen M.S. Ang](https://angms.science/notes.html)
