@@ -10,7 +10,9 @@ A repo containing miscellaneous notes ! It may be too messy to be used by any on
     - [Solving  L1  regularized least squares by reweighted least squares](https://angms.science/doc/CVX/RLS_l1.pdf) (archived in ./notes/ANG_RLS_L1.pdf)
     - 
   - Datascience Cookbook - By Charles Deledalle. (archived in ./notes/Charles Deledalle_cookbook_datascience.pdf)
-  - 
+  - Ivan Selesnick
+    - Sparse signal restoration (archived in ./notes/Ivan Selesnick-sparse signal restoration.pdf)
+    - A Derivation of the Soft-Thresholding Function (archived in ./notes/Ivan Selesnick-A Derivation of the Soft-Thresholding Function.pdf)
   - Python - [basic image processing operations](./guide_image_basics_git.ipynb): read, show, save, resize, change color space - MATPLOTLIB, PIL, CV2.
 ------------
 - Courses
