@@ -2,7 +2,7 @@
 A repo containing miscellaneous notes ! It may be too messy to be used by any one else. However, you might be find time-saving/useful things in it!. In addition to links,  I also archived some materials here.
 
 - Notes
-  - Some notes by [By Andersen M.S. Ang](https://angms.science/notes.html)
+  - [Andersen M.S. Ang](https://angms.science/notes.html)'s notes
     - [Gradient descent algorithm](https://angms.science/doc/CVX/CVX_GD.pdf). (archived in ./notes/Ang_Gradient Descent Algorithm.pdf)
     - [Landweber iteration - Minimizing $||Ax-b||_2^2$ by Landweber Iteration](https://angms.science/doc/CVX/LandweberIteration.pdf). (archived in ./notes/Ang_Landweber Iteration.pdf)
     - [L1  regularized Least Squares](https://angms.science/doc/CVX/L1_regularized_LS.pdf) (archived in ./notes/Ang_L1 regularized least squares.pdf)
@@ -10,7 +10,7 @@ A repo containing miscellaneous notes ! It may be too messy to be used by any on
     - [Solving  L1  regularized least squares by reweighted least squares](https://angms.science/doc/CVX/RLS_l1.pdf) (archived in ./notes/ANG_RLS_L1.pdf)
     - 
   - Datascience Cookbook - By Charles Deledalle. (archived in ./notes/Charles Deledalle_cookbook_datascience.pdf)
-  - Ivan Selesnick
+  - Ivan Selesnick's notes:
     - Sparse signal restoration (archived in ./notes/Ivan Selesnick-sparse signal restoration.pdf)
     - A Derivation of the Soft-Thresholding Function (archived in ./notes/Ivan Selesnick-A Derivation of the Soft-Thresholding Function.pdf)
   - Python - [basic image processing operations](./guide_image_basics_git.ipynb): read, show, save, resize, change color space - MATPLOTLIB, PIL, CV2.
