@@ -3,7 +3,8 @@ A repo containing miscellaneous notes ! It may be too messy to be used by any on
 
 - Notes
   - Derivation of the soft thresholding operator - [By Andersen M.S. Ang](https://angms.science/notes.html). (archived in ./notes/ISTA0-*.*)
-  -
+  - Datascience Cookbook - By Charles Deledalle. (archived in ./notes/Charles Deledalle_cookbook_datascience.pdf)
+  - 
   - Python - [basic image processing operations](./guide_image_basics_git.ipynb): read, show, save, resize, change color space - MATPLOTLIB, PIL, CV2.
 ------------
 - Courses
